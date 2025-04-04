@@ -18,7 +18,7 @@
 ### Setup Instructions:
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/vantien06/Bookstore_UI.git
+    git clone https://github.com/Hoangminh2704/Bookstore_UI.git
     cd Bookstore_UI
     ```
 
